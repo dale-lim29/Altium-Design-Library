@@ -1,1 +1,1 @@
-@ Altium Design
+# Altium Library
